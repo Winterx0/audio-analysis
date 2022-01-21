@@ -1,0 +1,15 @@
+https://academo.org/demos/wavelength-to-colour-relationship/
+
+https://www.unitconverters.net/length/centimeter-to-nanometer.htm
+
+" The human eye has evolved to detect light in the range 380—780nm,
+a portion of the electromagnetic spectrum known as visible light, which we perceive as colour.
+The particular range of wavelengths coincides with a window in the Earth's atmosphere,
+through which this light can travel
+
+A frequent way of referring to colour on computer screens is by using the RGB system.
+In this model, each colour is given a value for each red, green and blues
+components ranging from 0 to 255, giving a total value of 16.7 million possible colours.
+However, due to the very complex way in which the eye perceives colours,
+we can see colours which are outside of the gamut of the RGB scheme
+- there is no unique mapping that definitively converts a wavelength to a colour. "
