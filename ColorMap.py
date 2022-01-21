@@ -1,5 +1,5 @@
 '''This was added as a guide to working with MatplotLib.colors in order to later
-convert the sine waveform into visible light. I intend to later use parameters
+convert the sine waveform into visible light. I intend to use parameters
 that will access colors via RGB'''
 
 
