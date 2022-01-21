@@ -1,6 +1,6 @@
 '''This is to be the entry window for the program.
 It lists the data that is available to be entered by a user
-to discover certain properties between light and sound.
+to create a sine waveform.
 '''
 
 
